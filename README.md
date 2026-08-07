@@ -78,16 +78,10 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Amber-Tahreem/Amber-Tahreem/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
-### 🧊 3D Contribution Calendar
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Amber-Tahreem/Amber-Tahreem/main/profile-3d-contrib/profile-night-green.svg" alt="3d contribution calendar" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amber-Tahreem&theme=react-dark&hide_border=true&area=true" alt="contribution graph" />
 </p>
 
 ---
