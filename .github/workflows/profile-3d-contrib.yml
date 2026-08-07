@@ -34,9 +34,8 @@ jobs:
       - name: Generate 3D contribution calendar
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_USER_NAME: Amber-Tahreem
-        with:
-          username: Amber-Tahreem
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: Amber-Tahreem
       - name: Commit 3D calendar SVGs
         run: |
           git config --local user.email "actions@github.com"
