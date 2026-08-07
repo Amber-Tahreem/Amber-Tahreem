@@ -78,14 +78,6 @@
 
 ---
 
-### 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amber-Tahreem&theme=react-dark&hide_border=true&area=true" alt="contribution graph" />
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Amber-Tahreem&style=flat-square&color=6C63FF" alt="Profile views" />
 </p>
