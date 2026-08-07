@@ -75,6 +75,23 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amber-Tahreem&theme=radical&hide_border=true" />
 </p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Amber-Tahreem/Amber-Tahreem/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+### 🧊 3D Contribution Calendar
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Amber-Tahreem/Amber-Tahreem/main/profile-3d-contrib/profile-night-green.svg" alt="3d contribution calendar" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Amber-Tahreem&style=flat-square&color=6C63FF" alt="Profile views" />
 </p>
